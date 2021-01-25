@@ -45,7 +45,7 @@ time:
   enable: true
   year: 2021 # 年份
   month: 01 # 月份
-  date: 01 # 日期
+  date: 25 # 日期
   hour: 00 # 小时
   minute: 00 # 分钟
   second: 00 # 秒
@@ -72,7 +72,7 @@ dream:
 # Whether to display the musics.
 # 是否在首页显示音乐.
 music:
-  enable: false
+  enable: true
   title: #非吸底模式有效
     enable: true
     show: 听听音乐
@@ -139,7 +139,7 @@ socialLink:
   qq: 1813275534
   weibo: # https://weibo.com/xxx
   zhihu: # https://www.zhihu.com/xxx
-  rss: true # true、false
+  rss: false # true、false
 
 # Whether to activate the Post TOC, and Configure which title types are supported by TOC support.
 # You can add `toc: false` to the Front-matter of a post to turn off the TOC.
@@ -547,7 +547,7 @@ subtitle:
   typeSpeed: 100 # 打字速度
   backSpeed: 50 # 删除速度
   sub:
-    - 如果不知道该干什么，那就学习吧
+    - 当你觉得为时已晚的时候，恰恰是最早的时候
     - 身体和灵魂，总有一个要在路上
 
 # 手机二级菜单.
