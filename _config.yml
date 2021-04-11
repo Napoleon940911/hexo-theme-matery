@@ -4,24 +4,15 @@ menu:
   Index:
     url: /
     icon: fas fa-home
-  Tags:
-    url: /tags
-    icon: fas fa-tags
   Categories:
     url: /categories
     icon: fas fa-bookmark
-  Archives:
-    url: /archives
-    icon: fas fa-archive
+  Tags:
+    url: /tags
+    icon: fas fa-tags
   About:
     url: /about
     icon: fas fa-user-circle
-  Contact:
-    url: /contact
-    icon: fas fa-comments
-  Friends:
-    url: /friends
-    icon: fas fa-address-book
   # 二级菜单写法如下
   #Medias:
   #  icon: fas fa-list
